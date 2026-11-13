@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How to evaluate AI for field service: a checklist</title>
+<meta name="description" content="Eight questions to ask a field service AI vendor, and how to run a pilot on your own jobs that gives you a clear answer.">
+<link rel="canonical" href="https://aiforfieldservice.org/how-to-evaluate/">
+<meta property="og:url" content="https://aiforfieldservice.org/how-to-evaluate/">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="AI for Field Service">
+<meta property="og:title" content="How to evaluate AI for field service: a checklist">
+<meta property="og:description" content="Eight questions to ask a field service AI vendor, and how to run a pilot on your own jobs that gives you a clear answer.">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231438CA'/%3E%3Cpath d='M9 16.5l4.5 4.5L23 11' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="../style.css">
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://aiforfieldservice.org/#website",
+   "url": "https://aiforfieldservice.org/",
+   "name": "AI for Field Service",
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://getkenner.com/#organization",
+    "name": "Kenner",
+    "legalName": "Kenner Systems Inc.",
+    "url": "https://getkenner.com/"
+   }
+  },
+  {
+   "@type": "Article",
+   "@id": "https://aiforfieldservice.org/how-to-evaluate/#article",
+   "headline": "How to evaluate AI for field service",
+   "description": "Eight questions to ask a field service AI vendor, and how to run a pilot on your own jobs that gives you a clear answer.",
+   "datePublished": "2026-11-13",
+   "dateModified": "2026-11-10",
+   "author": {
+    "@type": "Person",
+    "name": "Arthur Allilaire",
+    "jobTitle": "CTO",
+    "sameAs": "https://www.linkedin.com/in/arthur-allilaire/",
+    "worksFor": {
+     "@type": "Organization",
+     "@id": "https://getkenner.com/#organization",
+     "name": "Kenner",
+     "legalName": "Kenner Systems Inc.",
+     "url": "https://getkenner.com/"
+    }
+   },
+   "publisher": {
+    "@type": "Organization",
+    "@id": "https://getkenner.com/#organization",
+    "name": "Kenner",
+    "legalName": "Kenner Systems Inc.",
+    "url": "https://getkenner.com/"
+   },
+   "mainEntityOfPage": "https://aiforfieldservice.org/how-to-evaluate/",
+   "isPartOf": {
+    "@id": "https://aiforfieldservice.org/#website"
+   }
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "AI for Field Service",
+     "item": "https://aiforfieldservice.org/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "How to evaluate AI for field service",
+     "item": "https://aiforfieldservice.org/how-to-evaluate/"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "How long should a pilot run?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Long enough for the novelty to wear off. Two weeks shows whether technicians still use it once nobody is watching."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Should we choose the AI in our suite or a specialist?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Start with where the missing information is. If it is in the suite's work order history, the suite's AI will find it. If it is in manuals, old jobs or a colleague's memory, that is the case for a specialist."
+     }
+    }
+   ]
+  }
+ ]
+}
+</script>
+</head>
+<body>
+<p class="disclosure"><span class="wrap">Published by <a href="https://getkenner.com/">Kenner</a>, which makes one of the tools compared here. <a href="../about/">How we handle that</a></span></p>
+<header class="top">
+  <div class="wrap top-in">
+    <a class="name" href="../">AI for Field Service</a>
+    <nav aria-label="Guides"><a href="../use-cases/">Use cases</a><a href="../cost/">Cost</a><a href="../how-to-evaluate/">How to evaluate</a><a href="../method/">Method</a></nav>
+  </div>
+</header>
+<main class="wrap">
+<article>
+<p class="crumb"><a href="../">AI for Field Service</a></p>
+<h1>How to evaluate AI for field service</h1>
+<p class="byline">By <a href="../about/#author">Arthur Allilaire</a>, co-founder and CTO of Kenner · Vendor facts checked on <time datetime="2026-11-10">10 November 2026</time></p>
+<section class="answer" id="answer">
+<h2>The short answer</h2>
+<p>Ask eight questions, then run a pilot on your own jobs. The questions tell you whether the tool can work for you. Only the pilot tells you whether your technicians will use it.</p>
+
+</section>
+<section>
+<h2>Eight questions for the vendor</h2>
+<ol><li>What does it answer from: one system&#x27;s records, our documents, or the linked history of each asset?</li><li>Does it show the source of each answer?</li><li>How does a technician reach it: an app, a messenger, a phone call?</li><li>Does it write back to our system of record, or only recommend?</li><li>Which features are generally available, and which are in preview or beta?</li><li>Do the AI features work without a connection?</li><li>Which plan, add-on or licence does it need?</li><li>What happens to our data, and which certifications are finished?</li></ol>
+</section>
+<section>
+<h2>How to run the pilot</h2>
+<h3>One team, your own jobs</h3>
+<p>Connect the tool to your real work orders. Five to ten technicians for two weeks is enough.</p>
+<h3>One number</h3>
+<p>Pick first-time fix, callbacks or time spent on reports, and record it before you start.</p>
+<h3>Count use, not opinions</h3>
+<p>How many technicians used it in the second week matters more than what they said in the first.</p>
+</section>
+<section>
+<h2>Signs it will not work</h2>
+<p>The vendor cannot say what the answers are based on. The demo only runs on the vendor&#x27;s data. The technician has to type a full question into an app. The answer never reaches the work order.</p>
+<p>On the last question in the checklist, hold us to the same standard: Kenner&#x27;s ISO 27001 certification is in progress and its SOC 2 audit is in preparation.</p>
+</section>
+<section id="questions">
+<h2>Questions and answers</h2>
+<h3>How long should a pilot run?</h3>
+<p>Long enough for the novelty to wear off. Two weeks shows whether technicians still use it once nobody is watching.</p>
+<h3>Should we choose the AI in our suite or a specialist?</h3>
+<p>Start with where the missing information is. If it is in the suite&#x27;s work order history, the suite&#x27;s AI will find it. If it is in manuals, old jobs or a colleague&#x27;s memory, that is the case for a specialist.</p>
+</section>
+<section id="more">
+<h2>More from this guide</h2>
+<ul><li><a href="../">AI for field service: what it does and how to choose</a></li><li><a href="../use-cases/">AI use cases in field service, with examples</a></li><li><a href="../cost/">What AI for field service costs in 2026</a></li></ul>
+</section>
+</article>
+</main>
+<footer>
+  <div class="wrap foot">
+    <p><strong>AI for Field Service</strong> is published by <a href="https://getkenner.com/">Kenner Systems Inc.</a> Vendor facts were last checked on 10 November 2026.</p>
+    <p><a href="../">The guide</a><a href="../method/">Method</a><a href="../about/">About and disclosure</a><a href="https://getkenner.com/legal.html#imprint">Imprint</a><a href="https://getkenner.com/legal.html#privacy">Privacy</a></p>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,31 @@
+# AI for Field Service
+
+> What AI does in field service in 2026, with named examples: briefs, troubleshooting, reports, parts and scheduling. What it costs and how to test it.
+
+Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of the tools compared. Vendor facts checked on 10 November 2026.
+
+## The short answer
+
+AI in field service does six jobs: it briefs the technician, helps find the fault, writes the report, handles parts and quotes, plans the schedule and shows leaders what is going on. What matters most is where the answers come from: the records in one system, your documents, or the history of each asset linked together. Few vendors publish a price. Of the 12 we checked, three do. No vendor page we checked says its AI features work offline. The only test that tells you anything is a pilot on your own jobs, measured against a number you already track.
+
+- Kenner (https://getkenner.com/)
+- Aquant (https://www.aquant.ai/solutions/field-technicians)
+- Neuron7 (https://www.neuron7.ai/)
+- Salesforce Agentforce for Field Service (https://www.salesforce.com/service/field-service-management/)
+- Microsoft Copilot in Dynamics 365 Field Service (https://learn.microsoft.com/en-us/dynamics365/field-service/copilot-overview)
+- ServiceNow Field Service Management (https://www.servicenow.com/products/field-service-management.html)
+- IFS Cloud Field Service Management with IFS.ai (https://www.ifs.com/en/products/fsm)
+- SAP Field Service and Asset Management with Joule (https://www.sap.com/products/crm/customer-service/field-service-management.html)
+- Oracle Fusion Field Service (https://www.oracle.com/cx/service/field-service-management/)
+- PTC ServiceMax AI (https://www.ptc.com/en/products/servicemax/ai-service)
+- MaintainX Assist (https://help.getmaintainx.com/maintainx-assist)
+- Simpro Lightning (https://www.simprogroup.com/)
+
+## Pages
+
+- [AI for field service: what it does and how to choose](https://aiforfieldservice.org/)
+- [AI use cases in field service, with examples](https://aiforfieldservice.org/use-cases/)
+- [What AI for field service costs in 2026](https://aiforfieldservice.org/cost/)
+- [How to evaluate AI for field service](https://aiforfieldservice.org/how-to-evaluate/)
+- [Method](https://aiforfieldservice.org/method/)
+- [About and disclosure](https://aiforfieldservice.org/about/)
