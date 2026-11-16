@@ -6,7 +6,7 @@ Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of th
 
 ## The short answer
 
-AI in field service does six jobs: it briefs the technician, helps find the fault, writes the report, handles parts and quotes, plans the schedule and shows leaders what is going on. What matters most is where the answers come from: the records in one system, your documents, or the history of each asset linked together. Few vendors publish a price. Of the 12 we checked, three do. No vendor page we checked says its AI features work offline. The only test that tells you anything is a pilot on your own jobs, measured against a number you already track.
+AI in field service does six jobs: it briefs the technician, helps find the fault, writes the report, handles parts and quotes, plans the schedule and shows leaders what is going on. Most of it advises. A newer kind also acts: it orders the part, files the report and prepares the quote. What matters most is where the answers come from: the records in one system, your documents, or the history of each asset linked together. The models are the same for everyone, so your own service data is what sets you apart. Start capturing it now. Few vendors publish a price. Of the 12 we checked, three do. Only one vendor page we checked, Aquant's, says its AI works offline. The only test that tells you anything is a pilot on your own jobs, measured against a number you already track.
 
 - Kenner (https://getkenner.com/)
 - Aquant (https://www.aquant.ai/solutions/field-technicians)
