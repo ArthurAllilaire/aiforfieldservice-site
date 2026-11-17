@@ -2,7 +2,7 @@
 
 > What AI does in field service in 2026, with named examples: briefs, troubleshooting, reports, parts and scheduling. What it costs and how to test it.
 
-Published by Kenner Systems Inc. (https://getkenner.com/), which makes one of the tools compared. Vendor facts checked on 10 November 2026.
+Published by Kenner Systems Inc. (https://getkenner.com/). Vendor facts checked on 10 November 2026.
 
 ## The short answer
 
